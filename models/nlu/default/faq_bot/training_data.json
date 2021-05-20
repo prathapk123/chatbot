@@ -1,0 +1,1143 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "Hello"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "goodbye"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "heya"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "howdy"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "hey there"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "see ya"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "see you later"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the incubation period of the corona virus disease?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Who is most at risk for the corona virus disease?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is the corona virus disease the same as SARS?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is a corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can humans become infected with a novel corona virus of animal source?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What are the symptoms of someone infected with a corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can corona viruse be transmitted from person to person?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is there a vaccine for a novel corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is there a treatment for a novel corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What can I do to protect myself?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are health workers at risk from a novel corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What WHO recommendations for countries?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is My Child at Risk for corona virus (COVID-19)?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What Should I Do if a Family Member Has Symptoms of corona virus (COVID-19)?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How Do Doctors Test People for corona virus (COVID-19)?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Where Can I Get Updated Information on corona virus (COVID-19)?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is COVID-19? What is SARS-CoV-2? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Where do corona viruses come from?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is this virus comparable to SARS or to the seasonal flu?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the mode of transmission of corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "When is a person infectious?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How severe is COVID-19 infection?  "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are some people more at risk than others?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are children also at risk of infection and what is their potential role in transmission of covid19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the risk of infection in pregnant women and neonates?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "When should I be tested for COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Where can I get tested?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Do persons suffering from pollen allergy or allergies in general have a higher risk to develop severe disease when having COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can we differentiate between hay fever/pollen allergy related respiratory symptoms and COVID-19 infection?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should people who suffer from pollen allergy self-isolate if they develop typical hay fever symptoms?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can I avoid getting infected?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can I avoid infecting others?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is physical distancing and why and how should I do it?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": " Are face masks effective in protecting against COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long will it take to develop a vaccine?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Am I protected against COVID-19 if I had the influenza vaccine this year?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the situation in Europe at the moment?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How prepared is Europe for COVID-19? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the EU doing?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How many people have been infected in the EU/EEA?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long will this outbreak last? When will we see the peak?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should schools and day centres be closed?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What are the travel restrictions in the European Union?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What precautions should I take if I need to travel?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the risk of infection when travelling by plane?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": " Are people working in the supply chain including logistics, control services, retail, etc. at risk of getting COVID-19 by handling packages? What measures can be taken to reduce the risk of getting infected in this type of work setting?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the risk of COVID-19 infection from food products imported from affected areas?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the risk of COVID-19 infection from animals or animal products imported from affected areas?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "I have a lung condition; am I at more risk of getting COVID-19 than somebody who doesn’t have a lung condition?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Please can you provide detailed information about who is at high risk from a respiratory standpoint?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are there any additional measures that I should take to limit my risk of getting sick as I have a lung condition?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I consider self-isolating to avoid catching the virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Am I safe outside of the house provided I avoid crowded areas e.g. can I go to the park or walk outside?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are people with respiratory disease more likely to die of COVID-19 than those without?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "As part of my condition, I regularly have a dry cough and fever – is there a way to distinguish these symptoms with those of COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I wear a mask to protect myself from the virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I catch COVID-19 from my pet?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "My neighbours often smoke in their garden and the smoke comes into my house if the windows are open. Can COVID-19 be transmitted through exhaled smoke?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "The news says that the worst affected by COVID-19 are the older age population and ‘people’ with pre-existing conditions. Are ‘people with pre-existing conditions’ also older or does this refer to people of any age?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "I had the flu vaccine this year, am I protected from this virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is being done to protect the vulnerable population (elderly, people with health conditions)?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What are organisations in Europe doing about the situation?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can the virus that causes COVID-19 be transmitted through the air?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I catch COVID-19 from the feces of someone with the disease?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What can I do to protect myself and prevent the spread of disease"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Protection measures for persons who are in or have recently visited (past 14 days) areas where COVID-19 is spreading"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How likely am I to catch COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I worry about COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are antibiotics effective in preventing or treating the COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are there any medicines or therapies that can prevent or cure COVID-19"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I wear mask to protect myself"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How to put on use take off and dispose of a mask?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long is the incubation period for COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I catch COVID-19 from my pet?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is it safe to receive a package from any area where COVID-19 has been reported?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is there anything I should not do?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can you have COVID-19 and show no symptoms?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can one get corona virus for a second time?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long can the virus survive on surfaces?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How has attention to other major illnesses (like cancer) been affected?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is it possible that one day this will happen again?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How to stop infection spreading of covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What to do if you need medical help ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How to protect yourself from coronavirus ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Who are the People most at risk ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What are the symptoms of someone infected with a corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long you should self isolate ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long to self-isolate if you have symptoms ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What to do If you live with someone who has symptoms?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What should be done to reduce the spread of infection in your home ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How to Treat corona virus symptoms at home ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I take ibuprofen if I have corona virus ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "When am I allowed to leave the house?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I go to the dentist, my GP or another medical appointment?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I stay at home or go to work?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "I’m not a critical worker and I can’t work from home. What should I do?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can I find out if my work is essential or not?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I see my friends?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I visit elderly relatives?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I go out to help a vulnerable person?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I go to park ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I move house?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I drive to a national park or other green space to walk?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What will happen to me if I break the rules?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What to do if you have symptoms ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What can I do to prevent catching or spreading the germs ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are the Intercollegiate Halls of Residence open?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is teaching continuing for students?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is corona virus ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is social distancing ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What effect does coronavirus have on pregnant women?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What effect will coronavirus have on my baby if I am diagnosed with the infection?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Why are pregnant women in a vulnerable group?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the travel advice if I am pregnant?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I attend my antenatal and postnatal appointments?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What should I do if I develop a fever or temperature, or both, when I am pregnant?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What impact will corona virus have on my pregnancy?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will my childbirth choices be affected by the coronavirus pandemic?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will I be able to have my birth partner with me during labour and birth?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will I be able to have my birth partner with me if I am being induced?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will my birth partner be able to stay with me if I have a caesarean or instrumental birth that occurs in an operating theatre?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is there any advice for birth partners during the corona virus pandemic?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": " How will I be tested for corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What should I do if I test positive for coronavirus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Why would I be asked to self-isolate (as opposed to reducing social contact)?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What should I do if I’m asked to self-isolate?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How will my care be managed after I have recovered from coronavirus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What do I do if I feel unwell or I’m worried about my baby during self-isolation?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will being in self-isolation for suspected or confirmed corona virus affect where I give birth?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will being in self-isolation for suspected or confirmed coronavirus affect how I give birth?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What happens if I go into labour during my self-isolation period?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Could I pass corona virus to my baby?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will my baby be tested for coronavirus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is corona virus ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Why is this disease being called corona virus disease 2019, covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Why might someone blame or avoid individuals and groups (create stigma) because of covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can people help stop stigma related to covid-19 ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is source of corona virus ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How does corona virus spread ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Why are we seeing rise in cases ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can someone who has covid-19 spread the illness to others ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can the corona virus can be spread through food, including restaurant take out, refrigerated or frozen packaged food ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I get sick with covid-19 if its on food ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Will warm weather stop the outbreak of covid-19 ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is community spread ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What temperature kills the virus that causes covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can mosquitoes or tricks spread the virus that causes covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can I protect myself ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What should I do if I have had close contact with someone who has covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Does CDC recommend using face masks or face coverings to prevent covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Am I at risk for covid-19 from a package or products shipping from China ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is it okay for me to donate blood ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "what is the risk of my child becoming sick with covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can I protect my child from covid-19 infection ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are the symptoms of covid-19 different in children than in adults ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should children wear masks ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "how do I prepare my children in case of covid-19 outbreak in our community ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can my family and I prepare for Covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What steps can my family take to reduce our risk of getting covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What should I do if someone in my house gets sick  with covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can I prepare for covid-19 at work ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I use soap and water or hand sanitizer to protect against covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What cleaning products should I use to protect against covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I make my own sanitizer if I can't find it in the stores ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What are the symptoms and complications that covid-19 can cause ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Who is most at risk for the corona virus disease?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What should people at higher risk of serious illness with covid-19 do ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I get covid-19 from my pets or other animals ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How can I prevent covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What treatments are available for covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are there any vaccines or other medical products to prevent covid-19 ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can covid-19 be transmitted by blood transmission ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is it safe to donate blood during the corona virus pandemic ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are there any FDA-approved drug products or medicines to treat covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are antibiotics effective in preventing or treating the COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is there a test for covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How are people tested for covid-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I get covid-19 from food worker handling my food ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can animals get covid-19 disease ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I get covid-19 from my pets or other animals ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "what is the median  incubation period of corona virus ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is corona virus"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What are the symptoms of COVID-19"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How does COVID-19 spread"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can the virus that causes COVID-19 be transmitted through the air?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can CoVID-19 be caught from a person who has no symptoms? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I catch COVID-19 from the feces of someone with the disease? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What can I do to protect myself from corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How likely am I to catch COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I worry about COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Who is at risk of developing severe illness"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are antibiotics effective in preventing or treating the COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Are there any medicines or therapies that can prevent or cure COVID-19 ?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is there a vaccine drug or treatment for COVID-19 ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is COVID-19 the same as SARS?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Should I wear mask to protect myself ? "
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How to put on use take off and dispose of a mask?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can humans become infected with the COVID-19 from an animal source?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Can I catch COVID-19 from my pet?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long does the virus survive on surfaces?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Is it safe to receive a package from any area where COVID-19 has been reported?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Do I need to wear a mask every time I step out of the home?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What is the government doing to contain the spread of COVID-19?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "Where can I go to obtain accurate, scientific, and up-to-date information about coronavirus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "How long is the incubation period for corona virus?"
+      },
+      {
+        "intent": "inform",
+        "entities": [],
+        "text": "What do we know about incubation period of corona virus?"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "ok got it! thank you"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "ok got it"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "got it bye"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "ok"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "thanks"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "thank you!"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "thanx"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "hi!"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}
