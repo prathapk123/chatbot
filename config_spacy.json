@@ -1,0 +1,5 @@
+{
+  "path": "./models/nlu",
+  "pipeline": "spacy_sklearn",
+  "data": "./data/data.json"
+}
